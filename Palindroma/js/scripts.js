@@ -1,0 +1,9 @@
+// chiedo all'utente di inserire una parola
+const AskUser = prompt('Inserisci una parola');
+
+// salvo la parola
+console.log('La parola inserita è')
+
+
+// verifico se la parola è un palindroma 
+// ??????????????????????
