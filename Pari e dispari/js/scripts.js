@@ -7,7 +7,7 @@ const Dispari = document.getElementById('dispari_btn');
 // stabiliamo se la somma dei numeri è pari o dispari
 function IsEven (num) {
 
-    if (IsEven % 2 == 0) {
+    if (num % 2 == 0) {
         return true;
     }
     else {
